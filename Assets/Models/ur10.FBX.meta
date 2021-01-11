@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: dbebb154452ac084ca07df29b61d2574
+timeCreated: 1487255757
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1 1
+    100004: 1 10
+    100006: 1 2
+    100008: 1 3
+    100010: 1 4
+    100012: 1 5
+    100014: 1 6
+    100016: 1 7
+    100018: 1 8
+    100020: 1 9
+    100022: 2
+    100024: 2 1
+    100026: 2 2
+    100028: 2 3
+    100030: 2 4
+    100032: 2 5
+    100034: 2 6
+    100036: 2 7
+    100038: 3
+    100040: 3 1
+    100042: 3 2
+    100044: 3 3
+    100046: 3 4
+    100048: 3 5
+    100050: 3 6
+    100052: 3 7
+    100054: 4
+    100056: 4 1
+    100058: 4 2
+    100060: 4 3
+    100062: 4 4
+    100064: 4 5
+    100066: 4 6
+    100068: 5
+    100070: 5 1
+    100072: 5 2
+    100074: 5 3
+    100076: 5 4
+    100078: 5 5
+    100080: 5 6
+    100082: 6
+    100084: 6 1
+    100086: 6 2
+    100088: 6 3
+    100090: 6 4
+    100092: 6 5
+    100094: 6 6
+    100096: 7
+    100098: 7 1
+    100100: 7 2
+    100102: 7 3
+    100104: 8
+    100106: 8 1
+    100108: 8 2
+    100110: 8 3
+    100112: 9
+    100114: 9 1
+    100116: Base_8
+    100118: DeleteFace1
+    100120: Lower arm_7
+    100122: NONE
+    100124: Size 2 Joint_10
+    100126: Size 2 Joint_3
+    100128: Size 2 Joint_5
+    100130: Size 3 Elbow_11
+    100132: Size 3 Joint_4
+    100134: Size 4 Joint_1
+    100136: Size 4 Joint_2
+    100138: Tool flange_6
+    100140: Universal Robots - UR10
+    100142: Upper arm_9
+    100144: //RootNode
+    400000: 1
+    400002: 1 1
+    400004: 1 10
+    400006: 1 2
+    400008: 1 3
+    400010: 1 4
+    400012: 1 5
+    400014: 1 6
+    400016: 1 7
+    400018: 1 8
+    400020: 1 9
+    400022: 2
+    400024: 2 1
+    400026: 2 2
+    400028: 2 3
+    400030: 2 4
+    400032: 2 5
+    400034: 2 6
+    400036: 2 7
+    400038: 3
+    400040: 3 1
+    400042: 3 2
+    400044: 3 3
+    400046: 3 4
+    400048: 3 5
+    400050: 3 6
+    400052: 3 7
+    400054: 4
+    400056: 4 1
+    400058: 4 2
+    400060: 4 3
+    400062: 4 4
+    400064: 4 5
+    400066: 4 6
+    400068: 5
+    400070: 5 1
+    400072: 5 2
+    400074: 5 3
+    400076: 5 4
+    400078: 5 5
+    400080: 5 6
+    400082: 6
+    400084: 6 1
+    400086: 6 2
+    400088: 6 3
+    400090: 6 4
+    400092: 6 5
+    400094: 6 6
+    400096: 7
+    400098: 7 1
+    400100: 7 2
+    400102: 7 3
+    400104: 8
+    400106: 8 1
+    400108: 8 2
+    400110: 8 3
+    400112: 9
+    400114: 9 1
+    400116: Base_8
+    400118: DeleteFace1
+    400120: Lower arm_7
+    400122: NONE
+    400124: Size 2 Joint_10
+    400126: Size 2 Joint_3
+    400128: Size 2 Joint_5
+    400130: Size 3 Elbow_11
+    400132: Size 3 Joint_4
+    400134: Size 4 Joint_1
+    400136: Size 4 Joint_2
+    400138: Tool flange_6
+    400140: Universal Robots - UR10
+    400142: Upper arm_9
+    400144: //RootNode
+    2300000: 1
+    2300002: 1 1
+    2300004: 1 10
+    2300006: 1 2
+    2300008: 1 3
+    2300010: 1 4
+    2300012: 1 5
+    2300014: 1 6
+    2300016: 1 7
+    2300018: 1 8
+    2300020: 1 9
+    2300022: 2
+    2300024: 2 1
+    2300026: 2 2
+    2300028: 2 3
+    2300030: 2 4
+    2300032: 2 5
+    2300034: 2 6
+    2300036: 2 7
+    2300038: 3
+    2300040: 3 1
+    2300042: 3 2
+    2300044: 3 3
+    2300046: 3 4
+    2300048: 3 5
+    2300050: 3 6
+    2300052: 3 7
+    2300054: 4
+    2300056: 4 1
+    2300058: 4 2
+    2300060: 4 3
+    2300062: 4 4
+    2300064: 4 5
+    2300066: 4 6
+    2300068: 5
+    2300070: 5 1
+    2300072: 5 2
+    2300074: 5 3
+    2300076: 5 4
+    2300078: 5 5
+    2300080: 5 6
+    2300082: 6
+    2300084: 6 1
+    2300086: 6 2
+    2300088: 6 3
+    2300090: 6 4
+    2300092: 6 5
+    2300094: 6 6
+    2300096: 7
+    2300098: 7 1
+    2300100: 7 2
+    2300102: 7 3
+    2300104: 8
+    2300106: 8 1
+    2300108: 8 2
+    2300110: 8 3
+    2300112: 9
+    2300114: 9 1
+    2300116: DeleteFace1
+    2300118: NONE
+    3300000: 1
+    3300002: 1 1
+    3300004: 1 10
+    3300006: 1 2
+    3300008: 1 3
+    3300010: 1 4
+    3300012: 1 5
+    3300014: 1 6
+    3300016: 1 7
+    3300018: 1 8
+    3300020: 1 9
+    3300022: 2
+    3300024: 2 1
+    3300026: 2 2
+    3300028: 2 3
+    3300030: 2 4
+    3300032: 2 5
+    3300034: 2 6
+    3300036: 2 7
+    3300038: 3
+    3300040: 3 1
+    3300042: 3 2
+    3300044: 3 3
+    3300046: 3 4
+    3300048: 3 5
+    3300050: 3 6
+    3300052: 3 7
+    3300054: 4
+    3300056: 4 1
+    3300058: 4 2
+    3300060: 4 3
+    3300062: 4 4
+    3300064: 4 5
+    3300066: 4 6
+    3300068: 5
+    3300070: 5 1
+    3300072: 5 2
+    3300074: 5 3
+    3300076: 5 4
+    3300078: 5 5
+    3300080: 5 6
+    3300082: 6
+    3300084: 6 1
+    3300086: 6 2
+    3300088: 6 3
+    3300090: 6 4
+    3300092: 6 5
+    3300094: 6 6
+    3300096: 7
+    3300098: 7 1
+    3300100: 7 2
+    3300102: 7 3
+    3300104: 8
+    3300106: 8 1
+    3300108: 8 2
+    3300110: 8 3
+    3300112: 9
+    3300114: 9 1
+    3300116: DeleteFace1
+    3300118: NONE
+    4300000: 1
+    4300002: 2
+    4300004: 3
+    4300006: 4
+    4300008: 5
+    4300010: 6
+    4300012: 7
+    4300014: 8
+    4300016: 9
+    4300018: 1
+    4300020: 2
+    4300022: 3
+    4300024: 4
+    4300026: 5
+    4300028: 6
+    4300030: 2
+    4300032: 1
+    4300034: 3
+    4300036: 4
+    4300038: 5
+    4300040: 6
+    4300042: 7
+    4300044: 8
+    4300046: 1
+    4300048: 3
+    4300050: DeleteFace1
+    4300052: 1
+    4300054: 1
+    4300056: 2
+    4300058: NONE
+    4300060: 1
+    4300062: 1
+    4300064: 2
+    4300066: 3
+    4300068: 4
+    4300070: 5
+    4300072: 6
+    4300074: 7
+    4300076: 8
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

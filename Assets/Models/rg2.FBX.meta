@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: e331c34fc79ca6041b937f4c3813168d
+timeCreated: 1486985896
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 11001 - RG2 Gripper 3DModel
+    100002: Boss-Extrude3
+    100004: Boss-Extrude3 1
+    100006: Boss-Extrude4
+    100008: Boss-Extrude4 1
+    100010: Boss-Extrude4 2
+    100012: Boss-Extrude4 3
+    100014: Boss-Extrude43
+    100016: Boss-Extrude5
+    100018: Boss-Extrude5 1
+    100020: Boss-Extrude5 2
+    100022: Boss-Extrude5 3
+    100024: Boss-Extrude6
+    100026: Boss-Extrude6 1
+    100028: Boss-Extrude8
+    100030: CirPattern1
+    100032: CirPattern1 1
+    100034: CirPattern1 2
+    100036: CirPattern1 3
+    100038: CirPattern1 4
+    100040: Connector cable RKMV 8-354_mockup_19
+    100042: Cut-Extrude1
+    100044: Cut-Extrude1 1
+    100046: Cut-Extrude1 2
+    100048: Cut-Extrude1 3
+    100050: Cut-Extrude1 4
+    100052: Cut-Extrude1 5
+    100054: Cut-Extrude1 6
+    100056: Cut-Extrude1 7
+    100058: Cut-Extrude1 8
+    100060: Cut-Extrude1 9
+    100062: Cut-Revolve1
+    100064: DeleteFace1
+    100066: DeleteFace2
+    100068: DeleteFace2 1
+    100070: DeleteFace3
+    100072: DeleteFace3 1
+    100074: DeleteFace4
+    100076: Fillet2
+    100078: Grommet Sleeve Skiffy 438001059907_mockup_18
+    100080: "Light guide \xD81,63 Farnell 1867012_11"
+    100082: "M3x6 unders\xE6nket BN 3803 art3061682_13"
+    100084: "M3x6 unders\xE6nket BN 3803 art3061682_14"
+    100086: "M3x6 unders\xE6nket BN 3803 art3061682_15"
+    100088: "M3x6 unders\xE6nket BN 3803 art3061682_16"
+    100090: "M3x6 unders\xE6nket BN 3803 art3061682_17"
+    100092: M4x8 BN272 art 1000179_22
+    100094: M4x8 BN272 art 1000179_24
+    100096: M4x8 BN272 art 1000179_25
+    100098: M4x8 BN272 art 1000179_26
+    100100: M4x8 BN272 art 1000179_27
+    100102: M4x8 BN272 art 1000179_28
+    100104: M6x8 BN272 art 1000578_23
+    100106: M6x8 BN272 art 1000578_29
+    100108: M6x8 BN272 art 1000578_30
+    100110: M6x8 BN272 art 1000578_31
+    100112: Revolve4
+    100114: //RootNode
+    100116: RG2 finger tip r01_muckup1_2
+    100118: RG2 finger tip r01_muckup1_8
+    100120: RG2 Flex Finger r04_Mockup_12
+    100122: RG2 Flex Finger r04_Mockup_3
+    100124: RG2 gripper coupling assembly_20
+    100126: RG2 gripper coupling r03_21
+    100128: RG2 Kabinet Bund r06_Mockup_4
+    100130: RG2 Kabinet Top r06_Mockup_1
+    100132: RG2 moment arm r02_mockup1_10
+    100134: RG2 moment arm r02_mockup1_5
+    100136: RG2 Truss arm r03_mockup1_6
+    100138: RG2 Truss arm r03_mockup1_9
+    100140: tool connector RSMEDG8 Male_mockup_7
+    400000: 11001 - RG2 Gripper 3DModel
+    400002: Boss-Extrude3
+    400004: Boss-Extrude3 1
+    400006: Boss-Extrude4
+    400008: Boss-Extrude4 1
+    400010: Boss-Extrude4 2
+    400012: Boss-Extrude4 3
+    400014: Boss-Extrude43
+    400016: Boss-Extrude5
+    400018: Boss-Extrude5 1
+    400020: Boss-Extrude5 2
+    400022: Boss-Extrude5 3
+    400024: Boss-Extrude6
+    400026: Boss-Extrude6 1
+    400028: Boss-Extrude8
+    400030: CirPattern1
+    400032: CirPattern1 1
+    400034: CirPattern1 2
+    400036: CirPattern1 3
+    400038: CirPattern1 4
+    400040: Connector cable RKMV 8-354_mockup_19
+    400042: Cut-Extrude1
+    400044: Cut-Extrude1 1
+    400046: Cut-Extrude1 2
+    400048: Cut-Extrude1 3
+    400050: Cut-Extrude1 4
+    400052: Cut-Extrude1 5
+    400054: Cut-Extrude1 6
+    400056: Cut-Extrude1 7
+    400058: Cut-Extrude1 8
+    400060: Cut-Extrude1 9
+    400062: Cut-Revolve1
+    400064: DeleteFace1
+    400066: DeleteFace2
+    400068: DeleteFace2 1
+    400070: DeleteFace3
+    400072: DeleteFace3 1
+    400074: DeleteFace4
+    400076: Fillet2
+    400078: Grommet Sleeve Skiffy 438001059907_mockup_18
+    400080: "Light guide \xD81,63 Farnell 1867012_11"
+    400082: "M3x6 unders\xE6nket BN 3803 art3061682_13"
+    400084: "M3x6 unders\xE6nket BN 3803 art3061682_14"
+    400086: "M3x6 unders\xE6nket BN 3803 art3061682_15"
+    400088: "M3x6 unders\xE6nket BN 3803 art3061682_16"
+    400090: "M3x6 unders\xE6nket BN 3803 art3061682_17"
+    400092: M4x8 BN272 art 1000179_22
+    400094: M4x8 BN272 art 1000179_24
+    400096: M4x8 BN272 art 1000179_25
+    400098: M4x8 BN272 art 1000179_26
+    400100: M4x8 BN272 art 1000179_27
+    400102: M4x8 BN272 art 1000179_28
+    400104: M6x8 BN272 art 1000578_23
+    400106: M6x8 BN272 art 1000578_29
+    400108: M6x8 BN272 art 1000578_30
+    400110: M6x8 BN272 art 1000578_31
+    400112: Revolve4
+    400114: //RootNode
+    400116: RG2 finger tip r01_muckup1_2
+    400118: RG2 finger tip r01_muckup1_8
+    400120: RG2 Flex Finger r04_Mockup_12
+    400122: RG2 Flex Finger r04_Mockup_3
+    400124: RG2 gripper coupling assembly_20
+    400126: RG2 gripper coupling r03_21
+    400128: RG2 Kabinet Bund r06_Mockup_4
+    400130: RG2 Kabinet Top r06_Mockup_1
+    400132: RG2 moment arm r02_mockup1_10
+    400134: RG2 moment arm r02_mockup1_5
+    400136: RG2 Truss arm r03_mockup1_6
+    400138: RG2 Truss arm r03_mockup1_9
+    400140: tool connector RSMEDG8 Male_mockup_7
+    2300000: Boss-Extrude3
+    2300002: Boss-Extrude3 1
+    2300004: Boss-Extrude4
+    2300006: Boss-Extrude4 1
+    2300008: Boss-Extrude4 2
+    2300010: Boss-Extrude4 3
+    2300012: Boss-Extrude43
+    2300014: Boss-Extrude5
+    2300016: Boss-Extrude5 1
+    2300018: Boss-Extrude5 2
+    2300020: Boss-Extrude5 3
+    2300022: Boss-Extrude6
+    2300024: Boss-Extrude6 1
+    2300026: Boss-Extrude8
+    2300028: CirPattern1
+    2300030: CirPattern1 1
+    2300032: CirPattern1 2
+    2300034: CirPattern1 3
+    2300036: CirPattern1 4
+    2300038: Cut-Extrude1
+    2300040: Cut-Extrude1 1
+    2300042: Cut-Extrude1 2
+    2300044: Cut-Extrude1 3
+    2300046: Cut-Extrude1 4
+    2300048: Cut-Extrude1 5
+    2300050: Cut-Extrude1 6
+    2300052: Cut-Extrude1 7
+    2300054: Cut-Extrude1 8
+    2300056: Cut-Extrude1 9
+    2300058: Cut-Revolve1
+    2300060: DeleteFace1
+    2300062: DeleteFace2
+    2300064: DeleteFace2 1
+    2300066: DeleteFace3
+    2300068: DeleteFace3 1
+    2300070: DeleteFace4
+    2300072: Fillet2
+    2300074: Revolve4
+    3300000: Boss-Extrude3
+    3300002: Boss-Extrude3 1
+    3300004: Boss-Extrude4
+    3300006: Boss-Extrude4 1
+    3300008: Boss-Extrude4 2
+    3300010: Boss-Extrude4 3
+    3300012: Boss-Extrude43
+    3300014: Boss-Extrude5
+    3300016: Boss-Extrude5 1
+    3300018: Boss-Extrude5 2
+    3300020: Boss-Extrude5 3
+    3300022: Boss-Extrude6
+    3300024: Boss-Extrude6 1
+    3300026: Boss-Extrude8
+    3300028: CirPattern1
+    3300030: CirPattern1 1
+    3300032: CirPattern1 2
+    3300034: CirPattern1 3
+    3300036: CirPattern1 4
+    3300038: Cut-Extrude1
+    3300040: Cut-Extrude1 1
+    3300042: Cut-Extrude1 2
+    3300044: Cut-Extrude1 3
+    3300046: Cut-Extrude1 4
+    3300048: Cut-Extrude1 5
+    3300050: Cut-Extrude1 6
+    3300052: Cut-Extrude1 7
+    3300054: Cut-Extrude1 8
+    3300056: Cut-Extrude1 9
+    3300058: Cut-Revolve1
+    3300060: DeleteFace1
+    3300062: DeleteFace2
+    3300064: DeleteFace2 1
+    3300066: DeleteFace3
+    3300068: DeleteFace3 1
+    3300070: DeleteFace4
+    3300072: Fillet2
+    3300074: Revolve4
+    4300000: Boss-Extrude43
+    4300002: DeleteFace2
+    4300004: DeleteFace3
+    4300006: DeleteFace4
+    4300008: Boss-Extrude3
+    4300010: Boss-Extrude4
+    4300012: Boss-Extrude5
+    4300014: Boss-Extrude4
+    4300016: Boss-Extrude5
+    4300018: Boss-Extrude6
+    4300020: Revolve4
+    4300022: Cut-Revolve1
+    4300024: CirPattern1
+    4300026: DeleteFace1
+    4300028: Boss-Extrude8
+    4300030: Fillet2
+    4300032: Cut-Extrude1
+    4300034: Cut-Extrude1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
